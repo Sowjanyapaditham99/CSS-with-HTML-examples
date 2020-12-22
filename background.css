@@ -1,0 +1,11 @@
+body{
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaGxbg21z0M2r-_RRVgZVcleoEkEG3Dd5a7g&usqp=CAU");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+  background-color:rgb(126, 163, 136);
+}
+div{
+  align-self: flex-start;
+}
