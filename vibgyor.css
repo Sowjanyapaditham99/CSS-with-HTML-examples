@@ -1,0 +1,36 @@
+h2{
+  text-align: center;
+}
+table{
+  margin:auto;
+  vertical-align:baseline;
+}
+td{
+  height :400px;
+  width:150px;
+  border: 10px solid white;
+}
+#one{
+  background:violet;
+
+}
+#two{
+  background:#4B0082;  /* hex code*/
+  color:white;
+}
+#three{
+  background: rgb(0,0,255); /* rgb code */
+
+}
+#four{
+  background:#00FF00;
+  }
+#five{
+  background: yellow;
+}
+#six{
+  background: rgb(255, 127, 0)
+}
+#seven{
+  background: red;
+}
